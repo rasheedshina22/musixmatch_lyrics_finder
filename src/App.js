@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Navbar from "./components/layouts/Navbar";
 import Index from "./components/layouts/Index";
 import Lyrics from "./components/tracks/Lyrics";
@@ -9,7 +9,7 @@ export default class App extends Component {
   render() {
     return (
       <Provider>
-        <Router>
+        <HashRouter basename="/">
           <React.Fragment>
             <Navbar />
             <div className="container">
@@ -19,7 +19,7 @@ export default class App extends Component {
               </Switch>
             </div>
           </React.Fragment>
-        </Router>
+        </HashRouter>
       </Provider>
     );
   }
