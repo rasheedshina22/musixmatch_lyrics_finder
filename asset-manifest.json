@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/musixmatch_lyrics_finder/static/css/main.34de6062.chunk.css",
+    "main.js": "/musixmatch_lyrics_finder/static/js/main.0b137c61.chunk.js",
+    "main.js.map": "/musixmatch_lyrics_finder/static/js/main.0b137c61.chunk.js.map",
+    "runtime~main.js": "/musixmatch_lyrics_finder/static/js/runtime~main.3feab6ce.js",
+    "runtime~main.js.map": "/musixmatch_lyrics_finder/static/js/runtime~main.3feab6ce.js.map",
+    "static/js/2.b669e78e.chunk.js": "/musixmatch_lyrics_finder/static/js/2.b669e78e.chunk.js",
+    "static/js/2.b669e78e.chunk.js.map": "/musixmatch_lyrics_finder/static/js/2.b669e78e.chunk.js.map",
+    "index.html": "/musixmatch_lyrics_finder/index.html",
+    "precache-manifest.20a89f24d5dcded40eb8f3e8f1567c0b.js": "/musixmatch_lyrics_finder/precache-manifest.20a89f24d5dcded40eb8f3e8f1567c0b.js",
+    "service-worker.js": "/musixmatch_lyrics_finder/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/musixmatch_lyrics_finder/static/css/main.34de6062.chunk.css.map"
+  }
+}
